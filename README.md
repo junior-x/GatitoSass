@@ -7,7 +7,7 @@ v 0.0.1
 
 Site development with Sass.
 
-![Images of Site](/src/assets/img/screen-v1.png)
+![Images of Sites](/src/assets/img/screen-v1.png)
 
 
 ------
