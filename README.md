@@ -3,7 +3,7 @@
 
 Sites stylized with Sass & Css
 
-v 0.0.1
+`v 0.0.1`
 
 Site development with Sass.
 
